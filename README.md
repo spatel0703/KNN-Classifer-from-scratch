@@ -35,3 +35,12 @@ The project includes an exploration of different values of k (number of neighbor
 To use the KNN classifier, follow the steps outlined in the provided code snippets. Adjust the dataset file paths and hyperparameters as needed. The implementation includes custom functions for data loading, preprocessing, KNN algorithm, and evaluation.
 
 Feel free to explore and experiment with different datasets or modify the code for specific requirements.
+
+**Note: Academic Integrity Warning**
+
+This K-Nearest Neighbors (KNN) classifier implementation is provided for educational and exploratory purposes. While it serves as a valuable resource for understanding the KNN algorithm and its implementation from scratch, it is essential to emphasize that using this code, or portions of it, for school assignments or assessments without proper attribution may constitute plagiarism.
+
+Students are encouraged to use this repository as a learning reference and a starting point for their understanding of KNN algorithms. However, it is strongly advised not to submit this code, modified or unmodified, for academic assignments without explicit permission from their educational institution. Doing so may result in academic penalties, including but not limited to, loss of marks or other disciplinary actions.
+
+Please adhere to your institution's academic integrity policies and guidelines when using this code or any other external resources for academic purposes.
+
